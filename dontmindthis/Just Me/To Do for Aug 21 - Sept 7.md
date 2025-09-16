@@ -1,0 +1,9 @@
+- [x] Intro To Network's Modules
+- [x] Intro To Network's Lab
+- [x] Java Lab 1
+- [ ] PPT Reporting
+- [x] Readings ENGE102
+- [x] Readings THEN102
+- [x] CAD Plate 2
+- [ ] CAD Plate 3
+- [ ] CAD Plate 4
