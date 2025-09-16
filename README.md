@@ -13,3 +13,6 @@ This configuration is a mimimum setup, no transition effects or transparancy eff
 - attachaside
 - vanitygaps
 - dwm-xrdb(for pywal integration)
+
+## MUST DO!
+- Install [pywal16](https://github.com/eylles/pywal16)
