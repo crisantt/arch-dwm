@@ -1,4 +1,4 @@
-# Arch DWM
+# My DWM
 This configuration is a mimimum setup, no transition effects or transparancy effect. Just a functioning dwm setup that I use.
 
 NOTE: It is expected that you've already installed the packages for a window manager setup.
