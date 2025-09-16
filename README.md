@@ -7,3 +7,9 @@
 #### Second Look
 ![image1](https://github.com/crisantt/arch-dwm/blob/main/screenshots/dwm-photo1-1.png)
 
+### Patches Used
+- activetagindicator
+- actualfullscreen
+- attachaside
+- vanitygaps
+- dwm-xrdb(for pywal integration)
