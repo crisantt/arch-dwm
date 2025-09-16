@@ -6,9 +6,11 @@ NOTE: It is expected that you've already installed the packages for a window man
 ### My own configuration
 #### First Look
 ![image2](https://github.com/crisantt/arch-dwm/blob/main/screenshots/dwm-photo2-2.png)
+![image2-2](https://github.com/crisantt/arch-dwm/blob/main/screenshots/dwm-photo2.png)
 
 #### Second Look
 ![image1](https://github.com/crisantt/arch-dwm/blob/main/screenshots/dwm-photo1-1.png)
+![image1-1](https://github.com/crisantt/arch-dwm/blob/main/screenshots/dwm-photo1.png)
 
 ### Patches Used
 - activetagindicator
