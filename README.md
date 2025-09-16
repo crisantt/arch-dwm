@@ -1,5 +1,5 @@
 # Arch DWM
-This configuration is a mimimum setup, no effects or transparancy effect. Just a functioning dwm setup that I use.
+This configuration is a mimimum setup, no transition effects or transparancy effect. Just a functioning dwm setup that I use.
 ### My own configuration
 #### First Look
 ![image2](https://github.com/crisantt/arch-dwm/blob/main/screenshots/dwm-photo2-2.png)
