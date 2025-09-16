@@ -1,0 +1,39 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+PS1='[\u@\h \W]\$ '
+
+# My Config Starts Here
+eval "$(starship init bash)"
+alias dc='cd /home/cris/.config/sl/dwm/'
+alias mc='cd /home/cris/.config/sl/dmenu/'
+alias sc='.config/scripts/'
+alias i='sudo pacman -S'
+alias search='sudo pacman -Ss'
+alias u='sudo pacman -Sy'
+alias U='sudo pacman -Syu'
+alias um='bash .update-mirrorlist.sh'
+alias update-grub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
+alias v='nvim'
+alias compile='make && sudo make clean install'
+alias vc='cd /home/cris/.config/nvim && nvim init.lua'
+
+
+# Created by `pipx` on 2025-08-15 14:25:49
+export PATH="$PATH:/home/cris/.local/bin"
+eval "$(register-python-argcomplete pipx)"
+
+# Import colorscheme from 'wal' asynchronously
+# &   # Run the process in the background.
+# ( ) # Hide shell job control messages.
+# Not supported in the "fish" shell.
+ (cat ~/.cache/wal/sequences &)
+
+# Alternative (blocks terminal for 0-3ms)
+ cat ~/.cache/wal/sequences
